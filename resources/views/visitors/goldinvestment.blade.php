@@ -14,7 +14,7 @@
             </div><!-- .col -->
             <div class="col-lg-8">
                 <div class="text-block">
-                    <h5 class="heading-xs dash">FLOROUSHX Financial Management</h5>
+                    <h5 class="heading-xs dash">fixotrade</h5>
                     <h2>Gold Investments</h2>
                     <p class="lead">
                                             Commonly seen as a great store of wealth, this precious metal is also

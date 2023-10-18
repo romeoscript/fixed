@@ -186,7 +186,7 @@ class Userdashcontroller extends Controller
                     } else {
                         # code...
                         $domain = request()->getHost();
-                        $email = "info@floroushx.com";
+                        $email = "support@fixotrade.com";
                         $mail = "please there is an error in $domain investment calculation";
                         $mailtitle = "website error in $domain";
                         $emaildata = ['data' => $email, 'email_body' => $mail, 'email_header' => $mailtitle];

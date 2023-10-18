@@ -59,7 +59,7 @@
                                             ownership, and profit maximization.
 
 Land banking Development Project is a secured and reliable  Real Estate investment platform established by
-FLOROUSHX Financial Management.
+fixotrade.
 
 For over three years, it has served the investment and property development needs of investors with
 great returns and has become the go-to platform for smart real estate investors.
@@ -113,7 +113,7 @@ in addition to your invested capital, which amounts to $150,000.
                                         <ul>
                                             <li><p><i class="fa fa-check-square"></i> -Fill a form (online or offline).</p></li><br>
                                             <li><p><i class="fa fa-check-square"></i> -Make payment.</p></li><br>
-                                            <li><p><i class="fa fa-check-square"></i> -Send the duly completed form and evidence of payment to support@FLOROUSHX Financial Managementcapital.com</p></li><br>
+                                            <li><p><i class="fa fa-check-square"></i> -Send the duly completed form and evidence of payment to support@fixotradecapital.com</p></li><br>
                                             <li><p><i class="fa fa-check-square"></i> -Payment Receipt sent to your mail.</p></li><br>
                                         </ul>
 

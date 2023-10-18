@@ -7,7 +7,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>FLOROUSHX Financial Management  | Account Management </title>
+    <title>fixotrade  | Account Management </title>
     <meta name="theme-color" content="#282744">
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{asset('assets/vendors/flag-icon-css/css/flag-icon.min.css')}}">
@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{asset('assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css')}}">
     <link rel="stylesheet" href="{{asset('assets/vendors/datatables.net-fixedcolumns-bs4/fixedColumns.bootstrap4.min.css')}}">
     <!-- End Plugin css for this page -->
-    <!-- Layout styles -->
+    <!-- Layout styles --> 
     <link rel="stylesheet" href="{{asset('assets/css/demo_3/style.css')}}">
     <!-- End Layout styles -->
     <link rel="shortcut icon" href="{{asset('images/logo-icon-b.png')}}" />
@@ -233,7 +233,7 @@ input[type="radio"][class="myRadio"] {
 @yield('body')
 
 <div class="wrapper mt-5 text-gray">
-    <p class="footer-text">Copyright © 2022 FLOROUSHX Financial Management. All rights reserved.</p>
+    <p class="footer-text">Copyright © 2022 fixotrade. All rights reserved.</p>
     <ul class="auth-footer text-gray">
       <li>
           <a href="{{route('about')}}">About Us</a>

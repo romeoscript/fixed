@@ -57,7 +57,7 @@
         </div><!-- .col -->
         <div class="col-lg-5">
             <div class="text-block">
-                <h5 class="heading-xs dash">FLOROUSHX Financial Management</h5>
+                <h5 class="heading-xs dash">fixotrade</h5>
                 <h2>Financial Planning</h2>
                 <p class="lead">
                                         A financial plan is a comprehensive evaluation of an investor’s current and future financial state by using
