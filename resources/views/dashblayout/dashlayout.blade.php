@@ -6,7 +6,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> FLOROUSHX USER Dashboard </title>
+    <title>fixotrade USER Dashboard </title>
     <meta name="theme-color" content="#282744">
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{asset('dashb/assets/vendors/flag-icon-css/css/flag-icon.min.css')}}">
